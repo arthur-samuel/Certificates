@@ -1,6 +1,6 @@
 # AI for Everyone Certificate
 
-![](./Certificate Images/AI for Everyone-page-00001.jpg)
+![](<Certificate Images/AI for Everyone-page-00001.jpg>)
 
 ### Link to the certificate
 
