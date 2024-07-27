@@ -1,6 +1,6 @@
 # Certificate Image
 
-![](Convolutional Neural Networks in TensorFlow-page-00001.jpg)
+![(./Convolutional Neural Networks in TensorFlow-page-00001.jpg)]
 
 ### Link to the certificate
 
