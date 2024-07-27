@@ -1,8 +1,9 @@
 # AI for Everyone Certificate
 
-![](<Certificate Images/AI for Everyone-page-00001.jpg>)
+![](<Dry Lab Certificates/AI for Everyone-page-00001.jpg>)
 
 ### Link to the certificate
+
 - [(https://coursera.org/share/2ad306b04f4de7d5d30f280de1231169)]
 
 # Convolutional Neural Networks in TensorFlow Certificate
