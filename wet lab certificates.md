@@ -3,7 +3,7 @@
 
 # Biosafety and Biosecurity Certificate
 
-[](<Wet Lab Certificates/Biosafety and biosecurity-page-00001.jpg>)
+![](<Wet Lab Certificates/Biosafety and biosecurity-page-00001.jpg>)
 
 # Clinical Research Certificate
 
